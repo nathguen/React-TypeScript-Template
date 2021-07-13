@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React TypeScript Template
+
+This repo is designed as a starting point for building out a React TypeScript application, leveraging Redux Thunk for the async Redux side.
+
+It has a very basic Todo receiver for the time being just to get you started w/ Redux and API interactions.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
